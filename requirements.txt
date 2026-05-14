@@ -1,0 +1,14 @@
+# RAG
+pymupdf>=1.24.0
+faiss-cpu>=1.10.0
+langchain>=1.0.0
+langchain-community>=0.4.0
+langchain-google-genai>=4.0.0
+langchain-text-splitters>=1.0.0
+python-dotenv>=1.0.0
+
+# Telegram Bot
+aiogram>=3.20.0
+
+# CLI (ixtiyoriy)
+rich>=13.7.0
